@@ -1,0 +1,2 @@
+rootProject.name='DevProfil'
+include ':app'
